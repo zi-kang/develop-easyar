@@ -1,0 +1,8 @@
+/node_modules/
+/dev/
+/release/
+/sightp-release/
+/.idea/
+.DS_Store
+*.zip
+*.rar
